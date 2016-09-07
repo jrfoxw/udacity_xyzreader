@@ -1,3 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_e4b99ea4f16c1df6722f0934845f037be5f942b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_5208e4bb4defb54793d40eb62d781f83abd36231.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2c94fea0ad2bf5a5f80a1090b61a68d24ab07e9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_5b9ce730fcdc96fcd33208c269a0e3806243ee2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_1692e4563ac31a616dab09c2570054ff53035d00.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_0618d14254bec1e82d2cafb17f7eca8f59064d96.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_df6f39edc03143884435e03804c69ae8b177872f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\.gradle\wrapper\dists\gradle-2.1.0-all\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_70965c7ad4afefa7ffe54dfb61535be396df4b64.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0375412a0d693ff266863ecb921c4d4fcd040113.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a04d3d8a33556113946467fd5d7431364fbed978.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_8d28aabb0f088b43c8ee46c1a9f251f3ecfe6d1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\.gradle\wrapper\dists\gradle-2.1.0-all\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_2ebe2a2fcf0e64c7740646c33457c1d81c2f302d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_748b2942db5e2148a436ccf21aca8aaf061f7c01.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_add6cf474ae0a1e75dc64294fd32216f50b9f6ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f5d58da49f63c71c80300c68f5f0f4e7f0805c83.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.0_5088c91fa863f92a44ff5e654a83032e15f12e23.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.2.0_134062fecde23a430bb0a85fe21b268c22cffe09.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_95b5ae2a2a05083f15e457d7e9edd7479fd6a98a.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_5cbb3c85b553618f7c9a7c7c9e4916f30e7b8ee3.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_6814f6514a1faa64f471dc81698005ae7ec6d40b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_f120f518ad239c76b9fec9463f7f7541d23809d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_5094df0b84b4194cb399667e0cbb434a3fb1212d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43946971dbb77de3a320d09fb529f6e5589de47e">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-transition-24.2.0_27f2a0b8a88a42ee294c1200870b62ad11e5c748.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\percent\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b10d60271c8298c59316050648bd9bb7adc5019a">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-percent-24.2.0_84c635c34f49b65fa4ccf341d9be74ecc78ba913.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_d96274a70b35f12eadee412f80a95ee15a2411c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\PY-DEV\Downloads\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1b1d52ad0362512610626fefaf20555ce52e900b.jar" />
+    </item>
+
+</items>
